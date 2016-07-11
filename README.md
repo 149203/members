@@ -19,8 +19,11 @@ When you are finished, you'll want to:
 4. `git merge master` (if step 3 said 'Already up to date' then this is unnecessary, but won't hurt anything)
 
 5. Now you'll need to add your files to Git - You'll need to do a `git add` and a `git commit`, you can do this in different ways, but here is my way... 
+
 5A. `git add -A` (add All files) 
+
 5B. `git status` (make sure I didn't do anything stupid)
+
 5C. `git commit -m 'Ben Denzer initial commit'`
 
 6. `git push origin {mybranch}` (FYI 'origin' is the name of the remote repository where you cloned from - this name can be changed, and you can have multiple remote repos, but on basic stuff like this, origin is always where you cloned from)
