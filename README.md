@@ -20,10 +20,10 @@ When you are finished, you'll want to:
 
 5. Now you'll need to add your files to Git - You'll need to do a `git add` and a `git commit`, you can do this in different ways, but here is my way... 
 
-5-A. `git add -A` (add All files) 
+  - `git add -A` (add All files) 
 
-5-B. `git status` (make sure I didn't do anything stupid)
+  - `git status` (make sure I didn't do anything stupid)
 
-5-C. `git commit -m 'Ben Denzer initial commit'`
+  - `git commit -m 'Ben Denzer initial commit'`
 
 6. `git push origin {mybranch}` (FYI 'origin' is the name of the remote repository where you cloned from - this name can be changed, and you can have multiple remote repos, but on basic stuff like this, origin is always where you cloned from)
