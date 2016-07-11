@@ -6,7 +6,7 @@ First, clone this repository.
 
 Create a branch (on the command line this would be `git checkout -b {myNewBranch}` (Name it anything you want, don't include the curly brackets) 
 
-Then create a new folder, name the folder however you want but it would be best if it was your name, your FCC username / Github username, etc. Then create one or more text files to tell the group who you are, what you're working on or whatever you want. 
+Then create a new folder, name the folder however you want but it would be best if it was your name, your FCC username / Github username, etc. Then create one or more text files to tell the group who you are, what you're working on or whatever you want. **If you name your file** `README.md` **it will show up by default, like this page does**.
 
 When you are finished, you'll want to:
 
